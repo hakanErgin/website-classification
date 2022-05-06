@@ -16,7 +16,7 @@ Infers the domain name from website screenshots
 
 This implementation was trained on the 10 following domains: `'The Guardian', 'Spiegel', 'CNN', 'BBC', 'Amazon', 'Ebay', 'Njuskalo(hr)', 'Google', 'Github', 'Youtube'`
 
-Data collection method is explained in detail [here](https://docs.google.com/presentation/d/1UOnSXGmsaVgv6lchmyeCrehXTzLHveAvsHvIsks-Zrw/edit?usp=sharing)
+### Data collection method is explained in detail [here](https://docs.google.com/presentation/d/1UOnSXGmsaVgv6lchmyeCrehXTzLHveAvsHvIsks-Zrw/edit?usp=sharing)
 
 - ## Data preperation
 
