@@ -20,7 +20,7 @@ This implementation was trained on the 10 following domains: `'The Guardian', 'S
 
 - ## Data preperation
 
-  - Scraped 3000 screenshots from 10 given websites using web scrapers (Around 300 samples per website). Samples include a screenshot with `cookies bar, top part, randomly scrolled down and the bottom part of the website`. please see the link above for data collection method
+  - Scraped 3000 screenshots from 10 given websites using web scrapers (Around 300 samples per website). Samples include a screenshot with `cookies bar, top part, randomly scrolled down and the bottom part of the website`. Please see the link above for data collection method
   - Extracted image features using [(HOG)](https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html#sphx-glr-auto-examples-features-detection-plot-hog-py), after resizing the images.
   - Saved into CSV format for model training.
 
